@@ -1,0 +1,5 @@
+{
+    "DSN": "mysql:host=localhost;dbname=contactsdb",
+    "USERNAME":"root",
+    "PASSWORD":""
+}

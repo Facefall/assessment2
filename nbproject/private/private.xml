@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/searchForm.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/content.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/controller/Controller.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/config.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/header.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/addContactForm.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/controller/HomeController.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/database/dbconfig.json</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/model/Crudable.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/controller/ContactsController.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/footer.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/model/DataModel.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/index.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/editContact.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/model/ContactModel.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/factory/PDOFactory.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/viewContacts.php</file>
+            <file>file:/G:/xampp/htdocs/A1P5P/app/view/Page.php</file>
+        </group>
+    </open-files>
+</project-private>
